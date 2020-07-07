@@ -1,6 +1,5 @@
 #Funcion que recibe dos números y retorna la suma de los mismos
-def suma(a,b):
-	
-	return a + b
+def sumar(a,b):	
+	return b + a
 
-print suma(5,5)
+print sumar(5,5)
